@@ -1,0 +1,9 @@
+body{
+    background-size: cover;
+}
+
+.btn{
+    background-color: white;
+    border-radius: 10px;
+    width: 300px;
+}
